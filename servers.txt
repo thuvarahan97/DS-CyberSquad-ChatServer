@@ -1,0 +1,6 @@
+s1	localhost	4444	5579
+s2	localhost	4445	5580
+s3 	localhost   4446	5581
+s4 	localhost   4447	5582
+s5 	localhost   4448	5583
+s6 	localhost   4449	5584
